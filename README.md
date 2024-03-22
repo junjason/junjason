@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JyY3JhejRqNXlncDZwOWVycjNlNGNpcHdydWE3Nms3MnN2ZGlubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junjason&label=Profile%20views&color=0e75b6&style=flat" alt="junjason" /> </p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jason-jun-0a7576237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
