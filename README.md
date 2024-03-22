@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer based in the NYC Area. 
 
 
+
 ### 🛠️ Languages, Technologies, & Skills
 
 <div>
@@ -50,3 +51,7 @@ I am a Full Stack Developer based in the NYC Area.
 </div>
 
 And More!
+
+### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junjason&theme=dark&background=000000)](https://git.io/streak-stats)
