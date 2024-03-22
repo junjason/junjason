@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 About Me
 
-I am a Full Stack Developer based in the NYC Area. 
+I am a Software Engineer and Full Stack Developer
 
+- Currently looking for a full-time role
+- My Projects are available at https://www.junjason.com/
+- Feel free to reach out at jjun300700@gmail.com!
 
+---
 
 ### 🛠️ Languages, Technologies, & Skills
 
