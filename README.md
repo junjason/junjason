@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  
-</div>
-
-
-<div id="header" align="center">
   <p>Hi, I'm Jason! 👋</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JyY3JhejRqNXlncDZwOWVycjNlNGNpcHdydWE3Nms3MnN2ZGlubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
   <div id="badges">
@@ -28,3 +23,5 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=junjason&style=flat-square&color=blue" alt=""/>
 </div>
+
+<br></br>
