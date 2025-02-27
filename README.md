@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <p>Hi, I'm Jason! 👋</p>
+  <h1>👋 Hey, I'm Jason Jun</h1>
+  <p> AI Researcher | Software Engineer | Problem Solver </p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JyY3JhejRqNXlncDZwOWVycjNlNGNpcHdydWE3Nms3MnN2ZGlubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jason-jun-0a7576237/">
@@ -26,38 +27,61 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑‍💻 About Me
+## 🧠 About Me  
 
-I am a Software Engineer and Full Stack Developer
+I’m a **software engineer and AI researcher** passionate about **AI architecture, self-learning models, and multi-agent collaboration systems.** My work is focused on **developing AI frameworks that integrate reasoning, memory, and autonomous decision-making.**  
 
-- Currently looking for a full-time role
-- My Projects are available at https://www.junjason.com/
-- Feel free to reach out at jjun300700@gmail.com!
+### 🔭 **Current Work & Research Interests**  
+- **🛠️ Developing AI systems** that integrate **self-learning capabilities** and **memory-enhanced reasoning.**  
+- **📖 Writing about AI & AGI innovations**—bridging the gap between LLMs and true reasoning systems.  
+- **🤖 Working on an AI agent system** to explore AI-driven problem-solving across disciplines.  
+- **🚀 Open to collaboration** on AI, automation, and large-scale software projects.  
+
+🌍 My projects & research are available at **[junjason.com](https://www.junjason.com/)**  
+📫 Feel free to reach out at **junjason1212@gmail.com**  
 
 ---
 
-### 🛠️ Languages, Technologies, & Skills
+## 🛠️ Tech Stack & Skills  
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-And More!
+### **💡 AI & Data Technologies**
+- **Deep Learning & NLP:** TensorFlow, PyTorch, OpenAI API, spaCy  
+- **AI Memory & Knowledge Storage:** FAISS, Weaviate, Vector Databases  
+- **Reasoning & AGI Research:** Symbolic AI, Reinforcement Learning, AI Strategy  
 
-### :fire: My Stats
+---
+<!-- (enable after papers are up one at a time)
+## 📌 Featured Work  
+🔹 **[AGI Research Paper (Coming Soon)]()** – Exploring self-learning models & long-term AI memory  
+🔹 **[AI Agent Collaboration System (In Progress)]()** – Building a framework for AI teams solving problems  
+🔹 **[More projects & blog posts](https://www.junjason.com/)**  
+-->
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junjason&theme=dark&background=000000)](https://git.io/streak-stats)
+## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junjason&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junjason&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junjason&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+### 🚀 **Looking to Connect?**  
+I love discussing **AI architectures, reasoning systems, and new ways to push AI forward.**  
+
+📌 **Let’s collaborate!** Reach out on **[LinkedIn](https://www.linkedin.com/in/jason-jun-0a7576237/)** or **email me at junjason1212@gmail.com**  
+
