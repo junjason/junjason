@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me  
 
-I’m a **software engineer and AI researcher** passionate about **AI architecture, self-learning models, and multi-agent collaboration systems.** My work is focused on **developing AI frameworks that integrate reasoning, memory, and autonomous decision-making.**  
+I’m a **software engineer** and more recently have been self researching AI. I'm passionate about **AI architecture and design, self-learning models, and multi-agent collaboration systems.** Currently focused on **developing AI frameworks that integrate reasoning, memory, and autonomous decision-making.**  
 
 ### 🔭 **Current Work & Research Interests**  
 - **🛠️ Developing AI systems** that integrate **self-learning capabilities** and **memory-enhanced reasoning.**  
