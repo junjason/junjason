@@ -59,7 +59,6 @@ I’m a **software engineer** and more recently have been working on AI research
 🔹 **[AI Agent Collaboration System (In Progress)]()** – Building a framework for AI teams solving problems  
 🔹 **[More projects & blog posts](https://www.junjason.com/)**  
 -->
----
 <!-- (enable after papers are up one at a time)
 ## 📊 GitHub Stats  
 
@@ -67,7 +66,6 @@ I’m a **software engineer** and more recently have been working on AI research
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junjason&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 -->
----
 
 ### 🚀 **Looking to Connect?**  
 I love discussing **AI architectures, reasoning systems, and new ways to push AI forward.**  
