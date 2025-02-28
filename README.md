@@ -29,13 +29,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me  
 
-I’m a **software engineer** and more recently have been self researching AI. I'm passionate about **AI architecture and design, self-learning models, and multi-agent collaboration systems.** Currently focused on **developing AI frameworks that integrate reasoning, memory, and autonomous decision-making.**  
-
-### 🔭 **Current Work & Research Interests**  
-- **🛠️ Developing AI systems** that integrate **self-learning capabilities** and **memory-enhanced reasoning.**  
-- **📖 Writing about AI & AGI innovations**—bridging the gap between LLMs and true reasoning systems.  
-- **🤖 Working on an AI agent system** to explore AI-driven problem-solving across disciplines.  
-- **🚀 Open to collaboration** on AI, automation, and large-scale software projects.  
+I’m a **software engineer** and more recently have been self researching AI.
 
 🌍 My projects & research are available at **[junjason.com](https://www.junjason.com/)**  
 📫 Feel free to reach out at **junjason1212@gmail.com**  
