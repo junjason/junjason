@@ -70,5 +70,5 @@ I’m a **software engineer** and more recently have been working on AI research
 ### 🚀 **Looking to Connect?**  
 I love discussing **AI architectures, reasoning systems, and new ways to push AI forward.**  
 
-📌 **Let’s collaborate!** Reach out on **[LinkedIn](https://www.linkedin.com/in/jason-jun-0a7576237/)** or **email me at junjason1212@gmail.com**  
+📌 **Let’s collaborate!** Reach out on **[LinkedIn](https://www.linkedin.com/in/jason-jun-0a7576237/)**
 
