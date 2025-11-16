@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 I’m a **software engineer** and more recently have been working on AI research.
 
 🌍 My projects & research are available at **[junjason.com](https://www.junjason.com/)** (Site is currently down) 
-📫 Feel free to reach out at **junjason1212@gmail.com**  
+📫 Feel free to reach out at **jjun300700@gmail.com**  
 
 ---
 
